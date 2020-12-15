@@ -22,3 +22,5 @@ plugins: [jekyll-paginate]
 
 paginate: 3
 paginate_path: "blog/page:num"
+
+remote_theme: pmarsceill/just-the-docs
